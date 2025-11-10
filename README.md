@@ -46,7 +46,8 @@ The dashboard was designed with a focus on clarity, interactivity, and user enga
 - Highlights sales per product and per platform.
 - Provides quick comparison of campaign effectiveness across product categories.
 
-![image alt](https://github.com/gouravjain77/Infographic_Dashboard/blob/main/full.png?raw=true)
+![image alt](https://github.com/gouravjain77/Food-Trend-Dashboard/blob/b75f4e49a88a4af5d82a1d3d1bc35006122a0b37/Campaign%20Performance.png))
+
 
 ### Buyers Composition
 - Analyzes customer demographics (education, marital status, kids/teens at home).
