@@ -54,7 +54,7 @@ The dashboard was designed with a focus on clarity, interactivity, and user enga
 - Visualizes average income per campaign and sales distribution by age groups and products.
 - Helps identify target segments driving higher revenue.
 
-![image alt]([Buyer Composition.png](https://github.com/gouravjain77/Food-Trend-Dashboard/blob/e9d9e275f26662121cdb3679865489534de22e73/Buyer%20Composition.png))
+![image alt](https://github.com/gouravjain77/Food-Trend-Dashboard/blob/e9d9e275f26662121cdb3679865489534de22e73/Buyer%20Composition.png)
 
 ### Purchase Drivers
 - Key Influencer visuals identify variables affecting campaign success and total sales.
