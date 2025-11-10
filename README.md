@@ -45,16 +45,19 @@ The dashboard was designed with a focus on clarity, interactivity, and user enga
 - Displays sales, leads, and quantity metrics by campaign.
 - Highlights sales per product and per platform.
 - Provides quick comparison of campaign effectiveness across product categories.
+![image alt](https://github.com/gouravjain77/Infographic_Dashboard/blob/main/full.png?raw=true)
 
 ### Buyers Composition
 - Analyzes customer demographics (education, marital status, kids/teens at home).
 - Visualizes average income per campaign and sales distribution by age groups and products.
 - Helps identify target segments driving higher revenue.
+![image alt](https://github.com/gouravjain77/Infographic_Dashboard/blob/main/full.png?raw=true)
 
 ### Purchase Drivers
 - Key Influencer visuals identify variables affecting campaign success and total sales.
 - Factors include income range, number of kids, and online engagement.
 - Provides actionable insights to optimize future marketing strategies.
+![image alt](https://github.com/gouravjain77/Infographic_Dashboard/blob/main/full.png?raw=true)
 
 ## Benefits
 
