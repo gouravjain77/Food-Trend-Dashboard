@@ -61,7 +61,7 @@ The dashboard was designed with a focus on clarity, interactivity, and user enga
 - Factors include income range, number of kids, and online engagement.
 - Provides actionable insights to optimize future marketing strategies.
 
-![image alt](https://github.com/gouravjain77/Infographic_Dashboard/blob/main/full.png?raw=true)
+![image alt](https://github.com/gouravjain77/Food-Trend-Dashboard/blob/0aaeaad9346a20d1bd45c7ccbcca7a426c48ddbe/Purchase%20Driver.png)
 
 ## Benefits
 
